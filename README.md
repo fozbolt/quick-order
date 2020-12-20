@@ -1,3 +1,5 @@
+**Force push from our original repo: https://github.com/mstjepan28/quick-order
+
 Naslov projekta: Quick order
 
 Izradili: Kristijan Krulić, Filip Ožbolt i Stjepan Markovčić
