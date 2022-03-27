@@ -2,6 +2,9 @@
 
 Naslov projekta: Quick order
 
+Web: [quick-order](https://quick-order.now.sh/)
+
+
 Izradili: Kristijan Krulić, Filip Ožbolt i Stjepan Markovčić
 
 Opis projekta:
