@@ -94,7 +94,7 @@
     .top{
         height: 250px;
         width: 100%;
-        background-image: url('/order_background.jpg'); 
+        background-image: url('@/assets/order_background.jpg'); 
         background-size:100% 100%; 
         background-repeat: no-repeat;
         margin-bottom: 10px;
@@ -102,7 +102,7 @@
     .krug{
         background-size:100% 100%; 
         background-repeat: no-repeat;
-        background-image: url('/order_krug.jpg'); 
+        background-image: url('@/assets/order_krug.jpg'); 
     }
     .main{
         text-align: center;

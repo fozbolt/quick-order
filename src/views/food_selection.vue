@@ -60,11 +60,11 @@
     .top{
         height: 250px;
 
-        background-image: url("/food2.jpg");
+        background-image: url("@/assets/food2.jpg");
         background-size: cover;
     }
     .krug{
-        background-image: url("/food_selection.jpg");
+        background-image: url("@/assets/food_selection.jpg");
         background-size:100% 100%;
         background-repeat: no-repeat;
     }

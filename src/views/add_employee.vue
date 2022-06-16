@@ -283,7 +283,7 @@
         border: 2px rgba(245, 166, 35, 0.7) solid;
 
         background-size: cover;
-        background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('/food.jpg');
+        background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('@/assets/food.jpg');
     }
     .underline{
         margin-bottom: 10px;

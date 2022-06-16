@@ -73,12 +73,12 @@
     .top{
         background-size: 100% 100%;
         background-repeat: no-repeat;
-        background-image: url('/employees_background.jpg');        
+        background-image: url('@/assets/employees_background.jpg');        
     }
     .krug{
         background-size: 100% 100%; 
         background-repeat: no-repeat;
-        background-image: url('/mare_krug.jpg'); 
+        background-image: url('@/assets/mare_krug.jpg'); 
     }
 
     .title{

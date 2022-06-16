@@ -116,7 +116,7 @@
                 <h3 class="underline"><h3 class="stroke">Average order price:</h3> {{parseInt(this.total_income / this.total_count, 10)}}$</h3>
             </div>
  
-            <router-link to="most_ordered"><div class="product_option stroke" style="background-image: url('/restoran.jpg')">Most ordered</div></router-link>
+            <router-link to="most_ordered"><div class="product_option stroke" style="background-image: url('@/assets/restoran.jpg')">Most ordered</div></router-link>
 
         </div>
         <div v-else class="no_stats">
@@ -183,7 +183,7 @@
 
         border-radius: 9px;
         border: 3px rgba(245, 166, 35, 0.7) solid;
-        background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('/food.jpg');
+        background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('@/assets/food.jpg');
     }
     .most_ordered > h2{
         padding: 10px 0;

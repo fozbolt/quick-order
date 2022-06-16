@@ -22,11 +22,11 @@
     .top{
         height: 250px;
 
-        background-image: url("/drinks2.jpg");
+        background-image: url("@/assets/drinks2.jpg");
         background-size: cover;    
     }
     .krug{
-        background-image: url("/drinks4.jpg" );
+        background-image: url("@/assets/drinks4.jpg" );
         background-size: cover;
         
     }

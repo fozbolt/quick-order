@@ -5,9 +5,9 @@
         </div>
         
         <div class="main">
-            <router-link to="food"><div class="product_option stroke" style="background-image: url('/voce.jpg')">Food</div></router-link>
-            <router-link to="drinks"><div class="product_option stroke" style="background-image: url('/order_background.jpg')">Drinks</div></router-link>
-            <router-link to="most_ordered"><div class="product_option stroke" style="background-image: url('/restoran.jpg')">Most ordered</div></router-link>
+            <router-link to="food"><div class="product_option stroke" style="background-image: url('@/assets/voce.jpg')">Food</div></router-link>
+            <router-link to="drinks"><div class="product_option stroke" style="background-image: url('@/assets/order_background.jpg')">Drinks</div></router-link>
+            <router-link to="most_ordered"><div class="product_option stroke" style="background-image: url('@/assets/restoran.jpg')">Most ordered</div></router-link>
         </div>
 
         <div class="bottom_buttons">
@@ -20,11 +20,11 @@
     .top{
         background-size: 100% 100%;
         background-repeat: no-repeat;
-        background-image: url('/products_background.jpg');      
+        background-image: url('@/assets/products_background.jpg');      
     }
     .krug{
         background-size: 100% 100%; 
         background-repeat: no-repeat;
-        background-image: url('/products_krug.jpg'); 
+        background-image: url('@/assets/products_krug.jpg'); 
     }
 </style>

@@ -65,12 +65,12 @@
     .top{
         background-size: 100% 100%;
         background-repeat: no-repeat;
-        background-image: url("/restoran.jpg");    
+        background-image: url("@/assets/restoran.jpg");    
     }
     .krug{
         background-size: 100% 100%; 
         background-repeat: no-repeat;
-        background-image: url('/waiter_krug.jpg');
+        background-image: url('@/assets/waiter_krug.jpg');
     }
     .title{
         text-align: center;

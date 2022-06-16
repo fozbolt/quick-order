@@ -257,13 +257,13 @@
     .top{
         height: 250px;
         margin-bottom: 10px;
-        background-image: url("/jagode.jpg");
+        background-image: url("@/assets/jagode.jpg");
         background-size:100% 100%;
         background-repeat: no-repeat;
     }
 
     .krug{
-        background-image: url("/palacinke.jpg");
+        background-image: url("@/assets/palacinke.jpg");
         background-size:100% 100%;
         background-repeat: no-repeat;
     }

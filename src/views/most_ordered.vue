@@ -48,12 +48,12 @@
     .top{
         background-size: 100% 100%;
         background-repeat: no-repeat;
-        background-image: url("/povrce.jpg");    
+        background-image: url("@/assets/povrce.jpg");    
     }
     .krug{
         background-size: 100% 100%; 
         background-repeat: no-repeat;
-        background-image: url("/zupa.jpg");
+        background-image: url("@/assets/zupa.jpg");
     }
     .top_title{
         font-size: 35px
